@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="2VDN-popravljeni:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/2VDN_popravljeni_jar</output-path>
+    <root id="archive" name="2VDN-popravljeni.jar">
+      <element id="module-output" name="2VDN-popravljeni" />
+    </root>
+  </artifact>
+</component>
